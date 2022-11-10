@@ -6,7 +6,7 @@ class ThemeStyle {
 
   const ThemeStyle();
 
-  static const Color mainColor = const Color(0xFFCDB4DB);
+  static const Color mainColor = const Color(0xFCCDB4DB);
   static const Color secondColor = const Color(0xFF393939);
   static const Color grey = const Color(0xFFE5E5E5);
   static const Color background = const Color(0xFFf0f1f6);
